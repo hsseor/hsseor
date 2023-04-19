@@ -48,5 +48,10 @@
 	<br>
 </div>
 <div align=center>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsseor&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=hsseor&show_icons=true">
+
+</br>
 
 </div>
