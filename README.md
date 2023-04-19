@@ -39,6 +39,9 @@
 	<a href="https://blog.naver.com/hsseor">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
+	<a href="https://www.instagram.com/ph.d_jjabjjab/">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+	</a>
 	<a href="https://brook-espadrille-65a.notion.site/580df141b78d4b43849e8de6cc274138">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
