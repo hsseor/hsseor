@@ -25,7 +25,9 @@
 	<p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white" />
+	<br>
+  	<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white" />
+	</br>
 	<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=VisualStudio&logoColor=white" />
